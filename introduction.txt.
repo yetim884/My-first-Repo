@@ -3,3 +3,5 @@ My name is Yetimwork Ayanaw, and I am a recent graduate in Computer Science. I h
 Currently, I am expanding my knowledge further as a student in the ALX program. This opportunity allows me to strengthen my technical and professional skills while connecting with a community of learners and mentors. I am highl
 y motivated to grow in the tech industry and contribute to impactful projects that solve real problems. With a strong work ethic and dedication to learning, I aim to become a well-rounded software engineer in the near future.
 I have Added introduction file
+git add introduction.txt
+git commit -m "Added introduction file"
